@@ -1,0 +1,125 @@
+.update-container {
+    margin-top: 100px;
+
+}
+.update-components {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.input1 {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.input2 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+.input3 {
+    display: flex;
+    align-items: center;
+    gap: 53px;
+}
+.input4 {
+    display: flex;
+    align-items: center;
+    gap: 68px;
+}
+.input5 {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+.input6 {
+    display: flex;
+    align-items: center;
+    gap: 53px;
+}
+.input7 {
+    display: flex;
+    align-items: center;
+    gap: 61px;
+}
+.input8 {
+    display: flex;
+    align-items: center;
+    gap: 57px;
+}
+.input9 {
+    display: flex;
+    align-items: center;
+    gap: 46px;
+}
+.input10 {
+    display: flex;
+    align-items: center;
+    gap: 54px;
+}
+.input11 {
+    display: flex;
+    align-items: center;
+    gap: 62px;
+}
+.input12 {
+    display: flex;
+    align-items: center;
+    gap: 45px;
+}
+.input13 {
+    display: flex;
+    align-items: center;
+    gap: 58px;
+}
+.input1 input {
+    padding: 9px 25%;
+}
+.input2 input {
+    padding: 9px 25%;
+}
+.input3 input {
+    padding: 9px 25%;
+}
+.input4 input {
+    padding: 9px 25%;
+}
+.input5 input {
+    padding: 9px 25%;
+}
+.input6 input {
+    padding: 9px 25%;
+}
+.input7 input {
+    padding: 9px 25%;
+}
+.input9 input {
+    padding: 9px 25%;
+}
+.input10 input {
+    padding: 9px 25%;
+}
+.input11 input {
+    padding: 9px 25%;
+}
+.input12 input {
+    padding: 9px 25%;
+}
+.baslik-after {
+    border-bottom: 2px solid red;
+}
+.update-container {
+    display: flex;
+    flex-direction: column;
+    gap:40px
+}
+.button-after {
+    padding: 11px;
+    background-color: red;
+    color: white;
+    width: fit-content;
+    display: flex;
+    margin-left: 64%;
+    border: none;
+}
